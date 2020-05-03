@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567639805 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\códigos\códigos prontos\lista_sequencial\main.cpp
+	<iostream>
+	<stdio.h>
+

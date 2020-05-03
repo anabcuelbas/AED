@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567377861 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\lista_lig_din\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1569454263 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\códigos\lista_lig_din\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572277138 source:c:\users\carlos\documents\usp-aulas\2º semestre\algoritmos e estrutura de dados\códigos\códigos prontos\fila_duas_pontas\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

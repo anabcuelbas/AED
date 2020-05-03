@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575230119 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\códigos\arvore_busca_binaria\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
+1575236156 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\códigos\códigos prontos\arvore_busca_binaria\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572392097 source:c:\users\carlos\documents\usp-aulas\segundo semestre\algoritmos e estrutura de dados\códigos\pilha_din_e_est\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
