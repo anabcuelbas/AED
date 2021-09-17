@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588340228 source:c:\users\carlos\documents\usp-aulas\3º semestre\algoritmos e estruturas de dados ii\códigos\grafo\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdio.h>
+
